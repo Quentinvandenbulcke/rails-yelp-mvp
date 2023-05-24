@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+a {
+  text-decoration: none;
+}
+
+ #banner {
+  height: 50px;
+ }
+
+ #restaurant-card:hover {
+  background-color: cornflowerblue;
+  color: white;
+ }
+
+ #restaurant-card:hover a {
+  color: white;
+ }
